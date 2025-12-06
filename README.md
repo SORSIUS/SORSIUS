@@ -93,7 +93,7 @@ A smart ASP.NET Core MVC application using **OpenAI GPT-5.1** to analyze source 
 - Best-practice checks  
 - Plan: PDF reports, inline annotations, scoring metrics  
 
-🔗 **Repo:** *(add link when ready)*
+<!-- 🔗 **Repo:** (add link when ready) -->
 
 ---
 
