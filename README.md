@@ -67,7 +67,7 @@
 ---
 
 ### **Trafix LLC (Reboot Technologies) — C# & ASP.NET MVC Trainee**  
-*Certification Program*  
+*Internship*  
 - Gained hands-on experience building scalable ASP.NET MVC applications.  
 - Strengthened debugging strategies and improved code structure under senior developer guidance.  
 - Applied MVC architecture and software design patterns in real projects.
@@ -101,15 +101,11 @@ A smart ASP.NET Core MVC application using **OpenAI GPT-5.1** to analyze source 
 Real-time computer vision project using **OpenCV + TensorFlow**  
 Recognizes and classifies hand gestures through camera input.
 
-🔗 **Repo:** *(add link when ready)*
-
 ---
 
 ### 🔹 **Cryptography Implementations in C#**
 Includes RSA, Caesar, Vigenère, Rail Fence Cipher & more.  
 Designed to demonstrate cryptographic principles.
-
-🔗 **Repo:** *(add link when ready)*
 
 ---
 
@@ -118,8 +114,6 @@ Desktop software simulating a full accounting cycle:
 - Transaction entry  
 - Ledger management  
 - Financial statement generation  
-
-🔗 **Repo:** *(add link when ready)*
 
 ---
 
