@@ -30,7 +30,7 @@
 
 ### **Frameworks & Libraries**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=dotnet,asp,opencv,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=dotnet,opencv,tensorflow" />
 </p>
 
 ### **Web Development**
