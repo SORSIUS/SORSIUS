@@ -55,6 +55,33 @@
 - BlackBox AI  
 
 ---
+## 💼 Experience
+
+### **AqDaar — Software Engineering Intern**  
+*3 Months*  
+- Built core e-commerce modules including product catalog, cart, and checkout.  
+- Worked in an Agile/Scrum environment with daily stand-ups and sprint planning.  
+- Practiced version control, debugging, and code reviews under mentor supervision.  
+- Improved practical understanding of project management and task estimation.
+
+---
+
+### **Trafix LLC (Reboot Technologies) — C# & ASP.NET MVC Trainee**  
+*Certification Program*  
+- Gained hands-on experience building scalable ASP.NET MVC applications.  
+- Strengthened debugging strategies and improved code structure under senior developer guidance.  
+- Applied MVC architecture and software design patterns in real projects.
+
+---
+
+### **Final Year Project — AI-Powered Code Review Tool**  
+*ASP.NET Core MVC + OpenAI GPT-5.1*  
+- Developed an intelligent tool for automated source-code analysis.  
+- Implemented features like code summarization, refactoring suggestions, performance insights, and security checks.  
+- Designed a clean, modular architecture with error-handling and fallback logic.  
+- Used prompt engineering to generate precise AI responses.  
+
+---
 
 ## 📌 Featured Projects
 
