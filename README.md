@@ -103,16 +103,6 @@ Desktop software simulating a full accounting cycle:
 
 ---
 
-### 🏷️ Badges
-<p>
-  <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI%20Integration-000000?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/He%2FHim-00A3E0?style=for-the-badge" />
-</p>
-
----
-
 ## ⚡ Fun Facts
 - ⚽ I love football and gaming  
 - 📘 I enjoy learning new technologies  
