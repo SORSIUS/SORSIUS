@@ -3,10 +3,11 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Location-Karachi%2C%20Pakistan-blue" />
-  <img src="https://img.shields.io/badge/Open%20to-Remote%20%26%20Local-success" />
-  <img src="https://img.shields.io/badge/Focus-Technical%20Writing%20%7C%20QA%20%7C%20Product-brightgreen" />
-  <img src="https://img.shields.io/badge/Frontend-HTML%20%7C%20CSS%20%7C%20JS-orange" />
-  <img src="https://komarev.com/ghpvc/?username=Maha-1384&color=blue" />
+  <img src="https://img.shields.io/badge/Open%20to-Remote%20%26%20Onsite-success" />
+  <img src="https://img.shields.io/badge/Focus-.NET%20%7C%20C%23%20%7C%20AI%20Integration-brightgreen" />
+  <img src="https://img.shields.io/badge/Backend-C%23%20%7C%20.NET%20Core%20%7C%20MVC-purple" />
+  <img src="https://img.shields.io/badge/Skills-Debugging%20%7C%20Architecture%20%7C%20Agile-orange" />
+  <img src="https://komarev.com/ghpvc/?username=SORSIUS&color=blue" />
 </p>
 
 ---
