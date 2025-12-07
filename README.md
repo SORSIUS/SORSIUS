@@ -2,12 +2,11 @@
 <h3 align="center">Software Engineer | .NET & C# Developer | AI Integration Enthusiast</h3>
 
 <p align="center">
-  <a href="https://github.com/SORSIUS">
-    <img src="https://komarev.com/ghpvc/?username=SORSIUS&label=Profile%20Views&color=0e75b6&style=flat" alt="SORSIUS" />
-  </a>
-  <a href="https://github.com/SORSIUS?tab=followers">
-    <img src="https://img.shields.io/github/followers/SORSIUS?label=Followers&style=social" alt="followers" />
-  </a>
+  <img src="https://img.shields.io/badge/Location-Karachi%2C%20Pakistan-blue" />
+  <img src="https://img.shields.io/badge/Open%20to-Remote%20%26%20Local-success" />
+  <img src="https://img.shields.io/badge/Focus-Technical%20Writing%20%7C%20QA%20%7C%20Product-brightgreen" />
+  <img src="https://img.shields.io/badge/Frontend-HTML%20%7C%20CSS%20%7C%20JS-orange" />
+  <img src="https://komarev.com/ghpvc/?username=Maha-1384&color=blue" />
 </p>
 
 ---
