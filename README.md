@@ -2,6 +2,13 @@
 <h3 align="center">Software Engineer | Python & .NET Developer | AI, Machine Learning & Automation Enthusiast</h3>
 
 <p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SORSIUS&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SORSIUS&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=SORSIUS&theme=tokyonight&hide_border=true"/>
+</p>
+<p align="center">
   <img src="https://img.shields.io/badge/Location-Karachi%2C%20Pakistan-blue" />
   <img src="https://img.shields.io/badge/Open%20to-Remote%20%26%20Onsite-success" />
   <img src="https://img.shields.io/badge/Currently-Python%20%7C%20Machine%20Learning%20%7C%20Automation-brightgreen" />
