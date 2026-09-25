@@ -178,20 +178,57 @@ Desktop application simulating a complete accounting workflow from transactions 
 
 ## 📫 Connect With Me
 
-<p align="left">
-  <a href="mailto:sorsius.dev@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
-  </a>
-  <a href="https://github.com/SORSIUS" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="40"/>
-  </a>
-  <a href="https://www.linkedin.com/in/suleiman-farooqi-57b1803a0/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
-  </a>
-  <a href="https://www.kaggle.com/suleimanfarooqi" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" height="40"/>
-  </a>
-</p>
+> *Feel free to reach out, connect, or check out my profiles.*
+
+<table>
+  <tr>
+    <td width="60" align="center">
+      <img src="https://skillicons.dev/icons?i=gmail" width="40"/>
+    </td>
+    <td>
+      <strong>Email</strong><br>
+      <a href="mailto:sorsius.dev@gmail.com">sorsius.dev@gmail.com</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="60" align="center">
+      <img src="https://skillicons.dev/icons?i=github" width="40"/>
+    </td>
+    <td>
+      <strong>GitHub</strong><br>
+      <a href="https://github.com/SORSIUS">github.com/SORSIUS</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="60" align="center">
+      <img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
+    </td>
+    <td>
+      <strong>LinkedIn</strong><br>
+      <a href="https://www.linkedin.com/in/suleiman-farooqi-57b1803a0/">
+        linkedin.com/in/suleiman-farooqi-57b1803a0
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="60" align="center">
+      <img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" width="40"/>
+    </td>
+    <td>
+      <strong>Kaggle</strong><br>
+      <a href="https://www.kaggle.com/suleimanfarooqi">
+        kaggle.com/suleimanfarooqi
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
+<p align="right"><i>Let's build something great! →</i></p>
 
 ---
 
