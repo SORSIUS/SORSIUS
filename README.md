@@ -91,12 +91,13 @@ Currently, I'm strengthening my data science and ML fundamentals through hands-o
 
 ## 💼 Experience
 
-### AqDaar — Software Engineering Intern *(3 Months)*
+### Ashrei Tech — Python for AI Trainee *(Current)*
 
-- Built core e-commerce modules including product catalog, cart, and checkout.
-- Worked in an Agile/Scrum environment with daily stand-ups and sprint planning.
-- Practiced version control, debugging, and code reviews under mentor supervision.
-- Improved practical understanding of project management and task estimation.
+- Learning **Advanced Python** with a focus on writing clean, efficient, and scalable code.
+- Building **automation scripts** to streamline repetitive tasks and improve productivity.
+- Developing a strong foundation in **Artificial Intelligence** and **Machine Learning** concepts through practical exercises.
+- Working with Python libraries for data processing, automation, and AI-driven applications.
+- Strengthening problem-solving skills through hands-on coding challenges and real-world scenarios.
 
 ---
 
@@ -105,6 +106,15 @@ Currently, I'm strengthening my data science and ML fundamentals through hands-o
 - Gained hands-on experience building ASP.NET MVC applications.
 - Strengthened debugging skills and improved code structure under senior developer guidance.
 - Applied MVC architecture and software design principles in practical projects.
+
+---
+
+### AqDaar — Software Engineering Intern *(3 Months)*
+
+- Built core e-commerce modules including product catalog, cart, and checkout.
+- Worked in an Agile/Scrum environment with daily stand-ups and sprint planning.
+- Practiced version control, debugging, and code reviews under mentor supervision.
+- Improved practical understanding of project management and task estimation.
 
 ---
 
