@@ -178,9 +178,20 @@ Desktop application simulating a complete accounting workflow from transactions 
 
 ## 📫 Connect With Me
 
-- 📧 **Email:** `sorsius.dev@gmail.com`
-- 💻 **GitHub:** https://github.com/SORSIUS
-- 💼 **LinkedIn:** https://www.linkedin.com/in/suleiman-farooqi-57b1803a0/
+<p align="left">
+  <a href="mailto:sorsius.dev@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+  </a>
+  <a href="https://github.com/SORSIUS" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="40"/>
+  </a>
+  <a href="https://www.linkedin.com/in/suleiman-farooqi-57b1803a0/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+  </a>
+  <a href="https://www.kaggle.com/suleimanfarooqi" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" height="40"/>
+  </a>
+</p>
 
 ---
 
