@@ -219,8 +219,8 @@ Desktop application simulating a complete accounting workflow from transactions 
     </td>
     <td>
       <strong>Kaggle</strong><br>
-      <a href="https://www.kaggle.com/suleimanfarooqi">
-        kaggle.com/suleimanfarooqi
+      <a href="https://www.kaggle.com/sorsius">
+        kaggle.com/sorsius
       </a>
     </td>
   </tr>
