@@ -1,132 +1,179 @@
 <h1 align="center">Hi 👋, I'm Muhammad Suleiman Farooqi</h1>
-<h3 align="center">Software Engineer | .NET & C# Developer | AI Integration Enthusiast</h3>
+<h3 align="center">Software Engineer | Python & .NET Developer | AI, Machine Learning & Automation Enthusiast</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Location-Karachi%2C%20Pakistan-blue" />
   <img src="https://img.shields.io/badge/Open%20to-Remote%20%26%20Onsite-success" />
-  <img src="https://img.shields.io/badge/Focus-.NET%20%7C%20C%23%20%7C%20AI%20Integration-brightgreen" />
+  <img src="https://img.shields.io/badge/Currently-Python%20%7C%20Machine%20Learning%20%7C%20Automation-brightgreen" />
   <img src="https://img.shields.io/badge/Backend-C%23%20%7C%20.NET%20Core%20%7C%20MVC-purple" />
-  <img src="https://img.shields.io/badge/Skills-Debugging%20%7C%20Architecture%20%7C%20Agile-orange" />
   <img src="https://komarev.com/ghpvc/?username=SORSIUS&color=blue" />
 </p>
 
 ---
 
 ## 🚀 About Me
-- 💻 Software Engineer specializing in **C#, .NET Core, ASP.NET MVC, Entity Framework Core**  
-- 🤖 Experienced in **GPT-based AI Integrations**, prompt engineering & intelligent systems  
-- 🧩 Strong at **debugging, problem-solving, modular architecture & scalable system design**  
-- 🔄 Comfortable working in **Agile/Scrum** environments  
-- 📚 Always learning, always building  
+
+I'm a **Software Engineer** passionate about building practical software and continuously expanding my skills in **Python, Machine Learning, Automation, and AI**.
+
+Currently, I'm strengthening my data science and ML fundamentals through hands-on projects and Kaggle while continuing to build backend applications with **C# and .NET**.
+
+- 💻 Building backend applications with **C#, .NET Core & ASP.NET MVC**
+- 🐍 Learning **Python** for automation, data analysis, and machine learning
+- 🤖 Exploring **Machine Learning** and real-world AI applications
+- ⚙️ Creating automation scripts to simplify repetitive tasks
+- 🧩 Enjoy solving problems through clean, maintainable code
+- 📚 Always learning and building new projects
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## 🌱 Currently Learning
 
-### **Languages**
+- Python for Data Science & Automation
+- Machine Learning with Scikit-learn
+- Data Analysis using Pandas & NumPy
+- Data Visualization with Matplotlib
+- Kaggle Competitions & Notebooks
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,python,java,c" />
+  <img src="https://skillicons.dev/icons?i=python,cs,java,c,js,sql" />
 </p>
 
-### **Frameworks & Libraries**
+### Frameworks & Libraries
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=dotnet,opencv,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=dotnet,tensorflow,opencv" />
 </p>
 
-### **Web Development**
+### Data Science & ML
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=tensorflow" />
+</p>
+
+**Working with:** Pandas • NumPy • Scikit-learn • Matplotlib
+
+### Web Development
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
 </p>
 
-### **Databases**
+### Databases
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite" />
 </p>
 
-### **Tools & Platforms**
+### Tools & Platforms
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,visualstudio" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman" />
 </p>
 
-### **AI & Development Tools**
-- OpenAI GPT-5.1 integration  
-- Prompt engineering  
-- GitHub Copilot  
-- BlackBox AI  
+### AI & Development Tools
+
+- OpenAI GPT Integration
+- GitHub Copilot
+- Claude
+- Gemini
+- Qwen
 
 ---
+
 ## 💼 Experience
 
-### **AqDaar — Software Engineering Intern**  
-*3 Months*  
-- Built core e-commerce modules including product catalog, cart, and checkout.  
-- Worked in an Agile/Scrum environment with daily stand-ups and sprint planning.  
-- Practiced version control, debugging, and code reviews under mentor supervision.  
+### AqDaar — Software Engineering Intern *(3 Months)*
+
+- Built core e-commerce modules including product catalog, cart, and checkout.
+- Worked in an Agile/Scrum environment with daily stand-ups and sprint planning.
+- Practiced version control, debugging, and code reviews under mentor supervision.
 - Improved practical understanding of project management and task estimation.
 
 ---
 
-### **Trafix LLC (Reboot Technologies) — C# & ASP.NET MVC Trainee**  
-*Internship*  
-- Gained hands-on experience building scalable ASP.NET MVC applications.  
-- Strengthened debugging strategies and improved code structure under senior developer guidance.  
-- Applied MVC architecture and software design patterns in real projects.
+### Trafix LLC (Reboot Technologies) — C# & ASP.NET MVC Trainee
+
+- Gained hands-on experience building ASP.NET MVC applications.
+- Strengthened debugging skills and improved code structure under senior developer guidance.
+- Applied MVC architecture and software design principles in practical projects.
 
 ---
 
-### **Final Year Project — AI-Powered Code Review Tool**  
-*ASP.NET Core MVC + OpenAI GPT-5.1*  
-- Developed an intelligent tool for automated source-code analysis.  
-- Implemented features like code summarization, refactoring suggestions, performance insights, and security checks.  
-- Designed a clean, modular architecture with error-handling and fallback logic.  
-- Used prompt engineering to generate precise AI responses.  
+## 🎓 Featured Project
+
+### AI-Powered Code Review Tool *(Final Year Project)*
+
+**ASP.NET Core MVC + OpenAI GPT**
+
+An intelligent code review platform designed to automate source code analysis.
+
+**Key Features**
+
+- Code summarization
+- Refactoring recommendations
+- Performance analysis
+- Security checks
+- Best-practice validation
+
+**Planned Improvements**
+
+- PDF reports
+- Inline annotations
+- Code quality scoring
+- Multi-language support
 
 ---
 
-## 📌 Featured Projects
+## 📌 More Projects
 
-### 🔹 **AI-Powered Code Review Tool (FYP)**
-A smart ASP.NET Core MVC application using **OpenAI GPT-5.1** to analyze source code:
-- Code summarization  
-- Refactoring suggestions  
-- Performance & security analysis  
-- Best-practice checks  
-- Plan: PDF reports, inline annotations, scoring metrics  
+### Hand Gesture Recognition System
 
-<!-- 🔗 **Repo:** (add link when ready) -->
+Real-time computer vision project using **OpenCV + TensorFlow** for gesture classification.
 
----
+### Cryptography Implementations in C#
 
-### 🔹 **Hand Gesture Recognition System**
-Real-time computer vision project using **OpenCV + TensorFlow**  
-Recognizes and classifies hand gestures through camera input.
+Implemented RSA, Caesar, Vigenère, Rail Fence Cipher, and other encryption algorithms.
 
----
+### Accounting Cycle Simulation Software
 
-### 🔹 **Cryptography Implementations in C#**
-Includes RSA, Caesar, Vigenère, Rail Fence Cipher & more.  
-Designed to demonstrate cryptographic principles.
+Desktop application simulating a complete accounting workflow from transactions to financial statements.
+
+### Upcoming Projects
+
+- Python Automation Scripts
+- Machine Learning Mini Projects
+- Kaggle Notebooks & Competitions
+- Data Analysis Projects
 
 ---
 
-### 🔹 **Accounting Cycle Simulation Software**
-Desktop software simulating a full accounting cycle:
-- Transaction entry  
-- Ledger management  
-- Financial statement generation  
+## 📈 Current Focus
+
+- Building a strong **Python** portfolio
+- Publishing **Kaggle notebooks**
+- Learning **Machine Learning** through real datasets
+- Creating useful **automation** projects
+- Contributing more consistently on GitHub
 
 ---
 
-## 📫 Contact Me
-- **Email:** sorsius.dev@gmail.com  
-- **GitHub:** https://github.com/SORSIUS  
-- **LinkedIn:** https://www.linkedin.com/in/suleiman-farooqi-57b1803a0/  
+## 📫 Connect With Me
+
+- 📧 **Email:** `sorsius.dev@gmail.com`
+- 💻 **GitHub:** https://github.com/SORSIUS
+- 💼 **LinkedIn:** https://www.linkedin.com/in/suleiman-farooqi-57b1803a0/
 
 ---
 
-## ⚡ Fun Facts
-- ⚽ I love football and gaming  
-- 📘 I enjoy learning new technologies  
-- 💡 Tech + AI + Creativity is my playground  
+## ⚡ Beyond Coding
 
----
+- ⚽ Football enthusiast
+- 🎮 Enjoy gaming
+- 📘 Love learning new technologies
+- 💡 I enjoy building projects that combine software engineering with AI and automation.
