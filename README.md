@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Suleiman Farooqi</h1>
-<h3 align="center">Software Engineer | Python & .NET Developer | AI, Machine Learning & Automation Enthusiast</h3>
+<h3 align="center">Engineering Software & AI to Build Scalable Solutions, Intelligent Agents, and Automated Workflows That Solve Real-World Challenges.</h3>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=SORSIUS&theme=tokyonight&hide_border=true"/>
