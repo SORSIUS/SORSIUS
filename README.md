@@ -2,9 +2,6 @@
 <h3 align="center">Engineering Software & AI to Build Scalable Solutions, Intelligent Agents, and Automated Workflows That Solve Real-World Challenges.</h3>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SORSIUS&theme=tokyonight&hide_border=true"/>
-</p>
-<p align="center">
   <img src="https://img.shields.io/badge/Location-Karachi%2C%20Pakistan-blue" />
   <img src="https://img.shields.io/badge/Open%20to-Remote%20%26%20Onsite-success" />
   <img src="https://img.shields.io/badge/Currently-Python%20%7C%20Machine%20Learning%20%7C%20Automation-brightgreen" />
